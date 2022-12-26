@@ -27,4 +27,4 @@ ls
 
 git pull
 
-python K-boy.py
+python2 K-boy.py
