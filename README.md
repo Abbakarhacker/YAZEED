@@ -16,7 +16,7 @@ pip2 install mechanize
 
 pkg install git 
 
-https://github.com/Abbakarhacker/YAZEED.git
+git clone https://github.com/Abbakarhacker/YAZEED.git
 
 ls
 
